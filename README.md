@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Nagesh
 - 👀 I’m interested in machine learning
+- Looking to contribute to open source projects in public health domain.
