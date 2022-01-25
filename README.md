@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Nagesh
+- 👀 I’m interested in machine learning
